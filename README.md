@@ -15,7 +15,7 @@ Ligus is a modern eCommerce web application built with **Ruby on Rails**, design
 ## 🛠 Tech Stack
 - **Backend:** Ruby on Rails  
 - **Frontend:** ReactJS, TailwindCSS
-- **Database:** PostgreSQL  
+- **Database:** PostgreSQL, Redis, MongoDB
 - **Authentication:** Devise + JWT (for API endpoints)  
 - **Payments:** Stripe (or PayPal) integration  
 - **Deployment:** Docker / Heroku / Render  
